@@ -23,10 +23,12 @@
     
     
  **4.Iterators and Generators**
+ 
      Iterators and Generators
      
 
 **5.Functional Programming**
 
    Functional Programming
+   
    Higher Order Functions and Dec
