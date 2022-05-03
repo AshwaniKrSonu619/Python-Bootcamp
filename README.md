@@ -32,3 +32,6 @@
    Functional Programming
    
    Higher Order Functions and Dec
+   
+   
+  Join for more : https://www.hackerearth.com/practice/python/getting-started/input-and-output/tutorial/
